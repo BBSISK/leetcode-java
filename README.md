@@ -48,4 +48,4 @@ Requires Java 17+ and Maven.
 
 | # | Problem | Difficulty | Pattern | Solution | Time | Space |
 |---|---|---|---|---|---|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Arrays & Hashing | [TwoSum.java](src/main/java/neetcode/arrayshashing/TwoSum.java) | O(n²) | O(1) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Arrays & Hashing | [TwoSum.java](src/main/java/neetcode/arrayshashing/TwoSum.java) | O(n) | O(n) |
