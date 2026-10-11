@@ -12,7 +12,7 @@ package neetcode.arrayshashing;
  * target solution - stop when solution is found and return the 
  * indices of the two numbers
  * Time:       O(n^2)
- * Space:      e.g. O(1)
+ * Space:      O(1)
  * What I learned: Starting the inner loop at i + 1 skips pairs I've already checked 
  * and stops an element being paired with itself.
  */ 
